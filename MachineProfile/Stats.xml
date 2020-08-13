@@ -18,15 +18,15 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>595</TotalSessions>
-<TotalSessionSeconds>100437</TotalSessionSeconds>
-<TotalGameplaySeconds>59729</TotalGameplaySeconds>
+<TotalSessions>596</TotalSessions>
+<TotalSessionSeconds>100585</TotalSessionSeconds>
+<TotalGameplaySeconds>59853</TotalGameplaySeconds>
 <TotalCaloriesBurned>25122.251953</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>af7ee59d0efd536a</LastPlayedMachineGuid>
-<LastPlayedDate>2020-08-12</LastPlayedDate>
+<LastPlayedDate>2020-08-13</LastPlayedDate>
 <TotalDancePoints>931387</TotalDancePoints>
 <Mileage>S</Mileage>
 <HarenaSwitch>0</HarenaSwitch>
@@ -76,7 +76,7 @@
 <NumToasties>9</NumToasties>
 <TotalTapsAndHolds>416405</TotalTapsAndHolds>
 <TotalJumps>17272</TotalJumps>
-<TotalHolds>42550</TotalHolds>
+<TotalHolds>42552</TotalHolds>
 <TotalRolls>18</TotalRolls>
 <TotalMines>297</TotalMines>
 <TotalHands>2025</TotalHands>
@@ -84,10 +84,10 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>577</Regular>
+<Regular>578</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='pump' Style='double'>25</Style>
+<Style Game='pump' Style='double'>26</Style>
 <Style Game='pump' Style='double-p'>1</Style>
 <Style Game='pump' Style='halfdouble'>1</Style>
 <Style Game='pump' Style='single'>543</Style>
@@ -100,7 +100,7 @@
 <Medium>69</Medium>
 <Hard>297</Hard>
 <Challenge>35</Challenge>
-<Edit>143</Edit>
+<Edit>144</Edit>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>4</Meter1>
@@ -126,14 +126,14 @@
 <Meter21>32</Meter21>
 <Meter22>27</Meter22>
 <Meter23>4</Meter23>
-<Meter24>2</Meter24>
+<Meter24>3</Meter24>
 <Meter27>1</Meter27>
 <Meter50>1</Meter50>
 <Meter99>2</Meter99>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>574</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>575</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>492</Regular>
+<Regular>493</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier01>1</Tier01>
@@ -144,7 +144,7 @@
 <Tier06>35</Tier06>
 <Tier07>8</Tier07>
 <Tier08>4</Tier08>
-<Tier09>27</Tier09>
+<Tier09>28</Tier09>
 </NumStagesPassedByGrade>
 </GeneralData>
 <SongScores>
@@ -28193,8 +28193,8 @@
 </Steps>
 <Steps Description='S17' Difficulty='Edit' Hash='0' StepsType='pump-single'>
 <HighScoreList>
-<NumTimesPlayed>9</NumTimesPlayed>
-<LastPlayed>2020-08-12</LastPlayed>
+<NumTimesPlayed>10</NumTimesPlayed>
+<LastPlayed>2020-08-13</LastPlayed>
 <HighGrade>Tier05</HighGrade>
 <HighScore>
 <Name></Name>
@@ -28930,6 +28930,12 @@
 <HighScoreList>
 <NumTimesPlayed>1</NumTimesPlayed>
 <LastPlayed>2020-07-15</LastPlayed>
+</HighScoreList>
+</Steps>
+<Steps Description='D24' Difficulty='Edit' Hash='0' StepsType='pump-double'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2020-08-13</LastPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -32358,6 +32364,7 @@
 <CaloriesBurned Date='2020-08-10'>1341.473389</CaloriesBurned>
 <CaloriesBurned Date='2020-08-11'>1497.868286</CaloriesBurned>
 <CaloriesBurned Date='2020-08-12'>1288.001221</CaloriesBurned>
+<CaloriesBurned Date='2020-08-13'>0.000000</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
